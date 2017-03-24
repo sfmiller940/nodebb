@@ -57,22 +57,21 @@ a{
     border-bottom-right-radius: 0.5rem;
   }
 
-  div{
-
-    &.username{
-      float: left;
-      width: 20%;
-    }
-    &.body{
-      float: left;
-      width: 58%;
-      margin: 0 1%;
-    }
-    &.date_posted{
-      float: left;
-      width: 20%;
-      text-align: right;
-    }
+  .username{
+    float: left;
+    width: 20%;
+  }
+  
+  .body{
+    float: left;
+    width: 58%;
+    margin: 0 1%;
+  }
+  
+  .date_posted{
+    float: left;
+    width: 20%;
+    text-align: right;
   }
 }
 

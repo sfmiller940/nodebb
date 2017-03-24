@@ -43,14 +43,14 @@ a {
   .row:last-child {
     border-bottom-left-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem; }
-  .row div.username {
+  .row .username {
     float: left;
     width: 20%; }
-  .row div.body {
+  .row .body {
     float: left;
     width: 58%;
     margin: 0 1%; }
-  .row div.date_posted {
+  .row .date_posted {
     float: left;
     width: 20%;
     text-align: right; }
